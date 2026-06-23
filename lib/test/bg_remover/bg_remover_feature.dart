@@ -1,0 +1,12 @@
+library bg_remover_feature;
+
+export 'bg_remover_routes.dart';
+export 'providers/image_provider.dart';
+export 'screens/batch_screen.dart';
+export 'screens/editor_screen.dart';
+export 'screens/home_screen.dart';
+export 'services/ai_engine.dart';
+export 'services/gallery_service.dart';
+export 'services/image_processor.dart';
+export 'widgets/background_picker.dart';
+export 'widgets/before_after_slider.dart';
